@@ -12,11 +12,11 @@ In order to add SfRating control manually in XAML, do the below steps,
  1. Add the below required assembly references to the project,
 
       * Syncfusion.SfShared.WPF
-       * Syncfusion.SfInput.WPF
+      * Syncfusion.SfInput.WPF
 
  2. Import Syncfusion WPF schema http://schemas.syncfusion.com/wpf in XAML page.
 
-3. Declare SfRating in XAML page.
+ 3. Declare SfRating in XAML page.
 
 **[XAML]**
 
@@ -56,8 +56,7 @@ In order to add SfRating control manually in C#, do the below steps,
 
 ## How to run this application?
 
-To run this application, you need to first clone the 
-SfRating-getting-started repository and then open it in Visual Studio 2022. Now, simply build and run your project to view the output.
+To run this application, you need to first clone the SfRating-getting-started repository and then open it in Visual Studio 2022. Now, simply build and run your project to view the output.
 
 ## <a name="troubleshooting"></a>Troubleshooting ##
 ### Path too long exception
